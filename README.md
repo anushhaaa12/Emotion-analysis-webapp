@@ -28,3 +28,5 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 The API will be available at `http://localhost:8000/analyze`. 
+![image](https://github.com/user-attachments/assets/8da3b284-83c8-49b4-86f6-cc30d4cca4aa)
+
